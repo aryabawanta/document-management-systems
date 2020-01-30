@@ -1,0 +1,14 @@
+<?php
+
+$config['utils']['upload_dir'] = 'assets/uploads/';
+// $config['utils']['full_upload_dir'] = '/var/www/km/docman/assets/uploads/';
+$config['utils']['full_upload_dir'] = 'C:/xampp5.6/htdocs/sakti/dms/assets/uploads/';
+
+$config['utils']['image']['large'] = '1280x720';
+$config['utils']['image']['medium'] = '720x480';
+$config['utils']['image']['small'] = '480x320';
+$config['utils']['image']['thumb'] = '160x160';
+
+$config['utils']['file_dir'] = 'application/files/';
+// $config['utils']['full_file_dir'] = '/var/www/km/docman/application/files/';
+$config['utils']['full_file_dir'] = 'C:/xampp5.6/htdocs/sakti/dms/application/files/';
